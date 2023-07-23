@@ -1,7 +1,7 @@
 -<addon provider-name="Rayflix" version="1.5" name="RayFlix Repo" id="repository.RayRepo">
 -<extension name="reposeb" point="xbmc.addon.repository">
 -<dir>
-<info compressed="false">https://raw.githubusercontent/seb-maker/reposeb/master/seb-kodi.zip/addons.xml</info>
+<info compressed="false"https://raw.githubusercontent/seb-maker/reposeb/master/seb-kodi.zip/addons.xml</info>
 <checksum>https://raw.githubusercontent/seb-maker/reposeb/master/seb-kodi.zip/addons.xml.md5</checksum>
 <datadir zip="true">https://raw.githubusercontent/seb-maker/reposeb/master/seb-kodi.zip/</datadir>
 </dir>
